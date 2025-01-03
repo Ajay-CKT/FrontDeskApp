@@ -1,0 +1,19 @@
+{
+  "name": "frontdeskapp",
+  "version": "1.0.0",
+  "description": "This is the backend for the Front Desk Application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajay-CKT/FrontDeskApp.git"
+  },
+  "author": "Ajay T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajay-CKT/FrontDeskApp/issues"
+  },
+  "homepage": "https://github.com/Ajay-CKT/FrontDeskApp#readme"
+}
