@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ajay-CKT/FrontDeskApp/issues"
   },
-  "homepage": "https://github.com/Ajay-CKT/FrontDeskApp#readme"
+  "homepage": "https://github.com/Ajay-CKT/FrontDeskApp#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
