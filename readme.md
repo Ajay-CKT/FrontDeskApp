@@ -15,15 +15,15 @@ This is the backend for the Front Desk Application. It is a RESTful API that all
 
 ### Setup
 
-[X] Setting up NPM application
-[X] Setting up Git repository
-[X] Express server setup
-[X] MongoDB setup
-[X] Dotenv setup
-[X] Dotenv - config.js setup
-[X] Split server.js into server.js and app.js
-[X] Setup Router
-[X] Setup Controller
-[X] Setup Model
-[X] Auth Endpoints - register, login, logout, me
-[X] Setup Middleware
+- [x] Setting up NPM application
+- [x] Setting up Git repository
+- [x] Express server setup
+- [x] MongoDB setup
+- [x] Dotenv setup
+- [x] Dotenv - config.js setup
+- [x] Split server.js into server.js and app.js
+- [x] Setup Router
+- [x] Setup Controller
+- [x] Setup Model
+- [x] Auth Endpoints - register, login, logout, me
+- [x] Setup Middleware
